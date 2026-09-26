@@ -1,0 +1,7 @@
+streamlit>=1.40
+openai>=1.40
+numpy>=1.26
+pandas>=2.0
+pypdfium2>=4.30
+pillow>=10.1
+reportlab>=4.0

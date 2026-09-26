@@ -1,0 +1,5 @@
+id,resident_id,allergen,reaction,severity,avoid,emergency_medication,notes
+1,2,Penicillin,Skin rash,Moderate,Penicillin-family antibiotics such as amoxicillin and ampicillin,"Cetirizine 10 mg tablet, as needed for rash or itching, only with nurse approval",Recorded by Dr. Kevin Brooks
+2,3,Shellfish,Throat swelling and trouble breathing (anaphylaxis),Severe,"Shrimp, crab, lobster and any dish made with them","Epinephrine auto-injector 0.3 mg, kept at the nurse station, given by the nurse or trained staff as set out in her care plan; call 911 when it is used",Kitchen informed
+3,3,Sulfa drugs,Hives,Moderate,Sulfonamide antibiotics such as sulfamethoxazole (Bactrim),"Cetirizine 10 mg tablet, as needed for hives, only with nurse approval",
+4,4,Aspirin,Stomach bleeding,Severe,"Aspirin, and other anti-inflammatory pain relievers such as ibuprofen and naproxen unless his doctor says otherwise",None on file,

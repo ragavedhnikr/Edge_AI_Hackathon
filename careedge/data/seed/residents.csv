@@ -1,0 +1,5 @@
+id,name,date_of_birth,age,room,conditions,allergies,primary_doctor
+1,Lakshmi Rao,1948-03-14,78,101,Type 2 diabetes; Hypertension; Orthostatic hypotension,None known,Dr. Anita Menon
+2,Joseph Mathew,1942-07-02,84,104,Right hip replacement (recovering); Osteoporosis,Penicillin (rash),Dr. Kevin Brooks
+3,Maria Gonzalez,1945-11-20,80,107,COPD; Hypothyroidism,Shellfish (anaphylaxis); Sulfa drugs (hives),Dr. Kevin Brooks
+4,Robert Chen,1938-05-09,88,110,Early-stage Alzheimer's disease; Hypertension,Aspirin (stomach bleeding),Dr. Omar Siddiqui

@@ -1,0 +1,10 @@
+id,resident_id,date,time,type,provider,location,notes
+1,1,2026-09-14,10:00,GP review,Dr. Anita Menon,Sunrise Family Clinic,Completed
+2,1,2026-10-01,10:00,GP review after discharge,Dr. Anita Menon,Sunrise Family Clinic,Recheck blood pressure sitting and standing
+3,1,2026-10-05,10:30,Cardiology follow-up,Dr. Rahul Mehta,"City Heart Clinic, Room 214","Bring medication list, ECG reports, BP log"
+4,2,2026-09-27,11:00,Physiotherapy (home),Arun Kumar,Room 104,"Every Monday, Wednesday and Friday"
+5,2,2026-10-08,14:15,Orthopaedic review,Dr. Sarah Thomas,"Greenfield Orthopaedic Centre, Clinic B",Wound check and X-ray
+6,3,2026-09-29,07:30,Thyroid blood test,Lab technician,On site,Before breakfast and before levothyroxine
+7,3,2026-10-02,09:30,Pulmonology review,Dr. Lena Park,Bayview Lung Clinic,Bring inhaler use log
+8,4,2026-10-10,11:00,Memory clinic,Dr. Omar Siddiqui,Northside Memory Clinic,Daughter Mei Chen to attend
+9,4,2026-10-16,15:00,Dental check-up,Dr. Helen Ward,Smile Dental,

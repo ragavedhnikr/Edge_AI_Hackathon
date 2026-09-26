@@ -1,0 +1,17 @@
+id,resident_id,drug,dose,route,times,purpose,status,start_date,end_date,prescriber,notes
+1,1,Metformin,500 mg,oral,"08:00, 20:00",Diabetes,active,2025-08-22,,Dr. Anita Menon,With meals
+2,1,Amlodipine,10 mg,oral,08:00,Blood pressure,stopped,2025-11-30,2026-09-23,Dr. Anita Menon,Reduced at hospital discharge
+3,1,Amlodipine,5 mg,oral,08:00,Blood pressure,active,2026-09-23,,Dr. Priya Nair,New dose after discharge
+4,1,Atorvastatin,10 mg,oral,22:00,Cholesterol,active,2025-05-14,,Dr. Anita Menon,
+5,2,Apixaban,2.5 mg,oral,"08:00, 20:00",Prevent blood clots after surgery,active,2026-09-17,2026-10-17,Dr. Sarah Thomas,30 days after hip surgery
+6,2,Paracetamol,500 mg,oral,As needed,Pain,active,2026-09-17,,Dr. Sarah Thomas,2 tablets up to 3 times a day; nurse approval needed
+7,2,Calcium + Vitamin D3,500 mg,oral,13:00,Bone health,active,2026-03-10,,Dr. Kevin Brooks,After lunch
+8,2,Cetirizine,10 mg,oral,As needed,Allergic rash or itching (penicillin allergy),active,2026-03-10,,Dr. Kevin Brooks,Nurse approval needed
+9,3,Tiotropium,18 mcg,inhaled,08:00,COPD maintenance,active,2025-02-03,,Dr. Lena Park,
+10,3,Salbutamol,100 mcg,inhaled,As needed,Breathlessness,active,2025-02-03,,Dr. Lena Park,Up to 2 puffs; tell the nurse if used more than twice a day
+11,3,Levothyroxine,50 mcg,oral,06:30,Thyroid,active,2024-10-26,,Dr. Kevin Brooks,30 minutes before breakfast
+12,3,Epinephrine auto-injector,0.3 mg,injection,Emergency only,Severe allergic reaction (shellfish),active,2025-11-30,,Dr. Kevin Brooks,Kept at nurse station; nurse or trained staff per care plan; call 911
+13,3,Cetirizine,10 mg,oral,As needed,Hives (sulfa allergy),active,2025-11-30,,Dr. Kevin Brooks,Nurse approval needed
+14,4,Donepezil,5 mg,oral,21:00,Memory (Alzheimer's),active,2026-04-29,,Dr. Omar Siddiqui,
+15,4,Lisinopril,10 mg,oral,08:00,Blood pressure,active,2024-07-18,,Dr. Omar Siddiqui,
+16,4,Melatonin,2 mg,oral,22:00,Sleep,active,2026-07-28,,Dr. Omar Siddiqui,
